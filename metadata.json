@@ -1,0 +1,7 @@
+{
+  "name": "Exam-Professional Quiz & Test Platform By Dr. Saleh Bahaj",
+  "description": "A comprehensive online examination system featuring multi-language support (Arabic/English), anti-cheat measures, real-time proctoring, and AI-powered question generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
